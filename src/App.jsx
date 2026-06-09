@@ -7,6 +7,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Certifications from './components/Certifications';
 import Achievements from './components/Achievements';
+import Resume from './components/Resume';
 import Contact from './components/Contact';
 
 const App = () => (
@@ -19,6 +20,7 @@ const App = () => (
     <Projects />
     <Certifications />
     <Achievements />
+    <Resume />
     <Contact />
   </Layout>
 );
